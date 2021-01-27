@@ -1,0 +1,9 @@
+handler:
+  staticPrompt:
+    candidates:
+    - promptResponse:
+        firstSimple:
+          variants:
+          - speech: A wondrous greeting, adventurer! Welcome to the mythical land of Gryffinberg! Based on your clothes, you are not from around these lands. It looks like you're on your way to an epic journey.
+transitionToScene: Start
+

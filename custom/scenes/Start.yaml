@@ -1,0 +1,11 @@
+onEnter:
+  staticPrompt:
+    candidates:
+    - promptResponse:
+        firstSimple:
+          variants:
+          - speech: Before you continue on your quest, would you like your fortune
+              told?
+        suggestions:
+          title: "Yes"
+          title: "No"
